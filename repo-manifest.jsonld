@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/zarr-developers/VirtualiZarr/commit/4fc1bc54e628bcfea86e8cc0be144ea2a5ae173b",
       "git:hexsha": "4fc1bc54e628bcfea86e8cc0be144ea2a5ae173b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T12:16:26.483471+00:00"
     },
     {
       "@id": "https://repolex.ai/r/zarr-developers/VirtualiZarr/commit/18f195a788cc8e6ce204e35a00e08ab0ccfb589c",
