@@ -1,0 +1,11 @@
+{
+  "org": "zarr-developers",
+  "repo": "VirtualiZarr",
+  "versions": [
+    {
+      "commit": "4fc1bc54e628bcfea86e8cc0be144ea2a5ae173b",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:16:26.484126+00:00"
+    }
+  ]
+}
